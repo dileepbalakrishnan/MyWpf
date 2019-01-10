@@ -1,0 +1,17 @@
+﻿<Window x:Class="PropertyInheritance.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PropertyInheritance"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <TextBlock Text="Text 1"></TextBlock>
+        <TextBlock Text="Text 2"></TextBlock>
+        <TextBlock Text="Text 3"></TextBlock>
+        <TextBlock Text="Text 4" FontSize="35" Name="TextBlock4"></TextBlock>
+        <Button Content="Set Value" Click="ButtonBase_OnClick3"></Button>
+        <Button Content="Clear Value" Click="ButtonBase_OnClick2"></Button>
+    </StackPanel>
+</Window>

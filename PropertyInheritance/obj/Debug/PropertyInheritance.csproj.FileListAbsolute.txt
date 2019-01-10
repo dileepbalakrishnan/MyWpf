@@ -1,0 +1,15 @@
+E:\Fundamentals\Fundamentals\PropertyInheritance\bin\Debug\PropertyInheritance.exe.config
+E:\Fundamentals\Fundamentals\PropertyInheritance\bin\Debug\PropertyInheritance.exe
+E:\Fundamentals\Fundamentals\PropertyInheritance\bin\Debug\PropertyInheritance.pdb
+E:\Fundamentals\Fundamentals\PropertyInheritance\obj\Debug\PropertyInheritance.csprojAssemblyReference.cache
+E:\Fundamentals\Fundamentals\PropertyInheritance\obj\Debug\MainWindow.g.cs
+E:\Fundamentals\Fundamentals\PropertyInheritance\obj\Debug\App.g.cs
+E:\Fundamentals\Fundamentals\PropertyInheritance\obj\Debug\PropertyInheritance_MarkupCompile.cache
+E:\Fundamentals\Fundamentals\PropertyInheritance\obj\Debug\PropertyInheritance_MarkupCompile.lref
+E:\Fundamentals\Fundamentals\PropertyInheritance\obj\Debug\MainWindow.baml
+E:\Fundamentals\Fundamentals\PropertyInheritance\obj\Debug\PropertyInheritance.g.resources
+E:\Fundamentals\Fundamentals\PropertyInheritance\obj\Debug\PropertyInheritance.Properties.Resources.resources
+E:\Fundamentals\Fundamentals\PropertyInheritance\obj\Debug\PropertyInheritance.csproj.GenerateResource.cache
+E:\Fundamentals\Fundamentals\PropertyInheritance\obj\Debug\PropertyInheritance.csproj.CoreCompileInputs.cache
+E:\Fundamentals\Fundamentals\PropertyInheritance\obj\Debug\PropertyInheritance.exe
+E:\Fundamentals\Fundamentals\PropertyInheritance\obj\Debug\PropertyInheritance.pdb

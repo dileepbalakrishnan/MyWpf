@@ -1,0 +1,16 @@
+E:\Fundamentals\Fundamentals\CustomTypeInXaml\bin\Debug\CustomTypeInXaml.exe.config
+E:\Fundamentals\Fundamentals\CustomTypeInXaml\bin\Debug\CustomTypeInXaml.exe
+E:\Fundamentals\Fundamentals\CustomTypeInXaml\bin\Debug\CustomTypeInXaml.pdb
+E:\Fundamentals\Fundamentals\CustomTypeInXaml\obj\Debug\CustomTypeInXaml.csprojAssemblyReference.cache
+E:\Fundamentals\Fundamentals\CustomTypeInXaml\obj\Debug\MainWindow.g.cs
+E:\Fundamentals\Fundamentals\CustomTypeInXaml\obj\Debug\App.g.cs
+E:\Fundamentals\Fundamentals\CustomTypeInXaml\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Fundamentals\Fundamentals\CustomTypeInXaml\obj\Debug\CustomTypeInXaml_MarkupCompile.cache
+E:\Fundamentals\Fundamentals\CustomTypeInXaml\obj\Debug\CustomTypeInXaml_MarkupCompile.lref
+E:\Fundamentals\Fundamentals\CustomTypeInXaml\obj\Debug\MainWindow.baml
+E:\Fundamentals\Fundamentals\CustomTypeInXaml\obj\Debug\CustomTypeInXaml.g.resources
+E:\Fundamentals\Fundamentals\CustomTypeInXaml\obj\Debug\CustomTypeInXaml.Properties.Resources.resources
+E:\Fundamentals\Fundamentals\CustomTypeInXaml\obj\Debug\CustomTypeInXaml.csproj.GenerateResource.cache
+E:\Fundamentals\Fundamentals\CustomTypeInXaml\obj\Debug\CustomTypeInXaml.csproj.CoreCompileInputs.cache
+E:\Fundamentals\Fundamentals\CustomTypeInXaml\obj\Debug\CustomTypeInXaml.exe
+E:\Fundamentals\Fundamentals\CustomTypeInXaml\obj\Debug\CustomTypeInXaml.pdb
