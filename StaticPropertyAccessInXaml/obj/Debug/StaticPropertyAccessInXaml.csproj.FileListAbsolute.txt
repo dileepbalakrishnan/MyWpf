@@ -1,0 +1,15 @@
+E:\MyGitHub\MyWpf\StaticPropertyAccessInXaml\bin\Debug\StaticPropertyAccessInXaml.exe.config
+E:\MyGitHub\MyWpf\StaticPropertyAccessInXaml\bin\Debug\StaticPropertyAccessInXaml.exe
+E:\MyGitHub\MyWpf\StaticPropertyAccessInXaml\bin\Debug\StaticPropertyAccessInXaml.pdb
+E:\MyGitHub\MyWpf\StaticPropertyAccessInXaml\obj\Debug\StaticPropertyAccessInXaml.csprojAssemblyReference.cache
+E:\MyGitHub\MyWpf\StaticPropertyAccessInXaml\obj\Debug\MainWindow.g.cs
+E:\MyGitHub\MyWpf\StaticPropertyAccessInXaml\obj\Debug\App.g.cs
+E:\MyGitHub\MyWpf\StaticPropertyAccessInXaml\obj\Debug\StaticPropertyAccessInXaml_MarkupCompile.cache
+E:\MyGitHub\MyWpf\StaticPropertyAccessInXaml\obj\Debug\StaticPropertyAccessInXaml_MarkupCompile.lref
+E:\MyGitHub\MyWpf\StaticPropertyAccessInXaml\obj\Debug\MainWindow.baml
+E:\MyGitHub\MyWpf\StaticPropertyAccessInXaml\obj\Debug\StaticPropertyAccessInXaml.g.resources
+E:\MyGitHub\MyWpf\StaticPropertyAccessInXaml\obj\Debug\StaticPropertyAccessInXaml.Properties.Resources.resources
+E:\MyGitHub\MyWpf\StaticPropertyAccessInXaml\obj\Debug\StaticPropertyAccessInXaml.csproj.GenerateResource.cache
+E:\MyGitHub\MyWpf\StaticPropertyAccessInXaml\obj\Debug\StaticPropertyAccessInXaml.csproj.CoreCompileInputs.cache
+E:\MyGitHub\MyWpf\StaticPropertyAccessInXaml\obj\Debug\StaticPropertyAccessInXaml.exe
+E:\MyGitHub\MyWpf\StaticPropertyAccessInXaml\obj\Debug\StaticPropertyAccessInXaml.pdb
