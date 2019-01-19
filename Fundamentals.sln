@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutedEventsDemo", "RoutedE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicalResourceUsage", "LogicalResourceUsage\LogicalResourceUsage.csproj", "{C8A72B56-A68E-4EC4-B3D4-C45283F49CEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicFontsDemo", "DynamicFontsDemo\DynamicFontsDemo.csproj", "{17939A20-B211-45D0-91B7-F4851EF8C89A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{C8A72B56-A68E-4EC4-B3D4-C45283F49CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8A72B56-A68E-4EC4-B3D4-C45283F49CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8A72B56-A68E-4EC4-B3D4-C45283F49CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17939A20-B211-45D0-91B7-F4851EF8C89A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17939A20-B211-45D0-91B7-F4851EF8C89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17939A20-B211-45D0-91B7-F4851EF8C89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17939A20-B211-45D0-91B7-F4851EF8C89A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
