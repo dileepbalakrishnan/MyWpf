@@ -19,7 +19,6 @@ E:\Fundamentals\Fundamentals\DependencyObjectDemo\obj\Debug\DependencyObjectDemo
 E:\MyGitHub\MyWpf\DependencyObjectDemo\bin\Debug\DependencyObjectDemo.exe.config
 E:\MyGitHub\MyWpf\DependencyObjectDemo\bin\Debug\DependencyObjectDemo.exe
 E:\MyGitHub\MyWpf\DependencyObjectDemo\bin\Debug\DependencyObjectDemo.pdb
-E:\MyGitHub\MyWpf\DependencyObjectDemo\obj\Debug\DependencyObjectDemo.csprojAssemblyReference.cache
 E:\MyGitHub\MyWpf\DependencyObjectDemo\obj\Debug\MainWindow.g.cs
 E:\MyGitHub\MyWpf\DependencyObjectDemo\obj\Debug\Properties\MySimpleControl.g.cs
 E:\MyGitHub\MyWpf\DependencyObjectDemo\obj\Debug\App.g.cs

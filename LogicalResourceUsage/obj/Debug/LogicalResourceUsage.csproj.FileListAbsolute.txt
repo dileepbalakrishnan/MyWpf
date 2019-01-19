@@ -12,4 +12,3 @@ E:\MyGitHub\MyWpf\LogicalResourceUsage\obj\Debug\LogicalResourceUsage.csproj.Gen
 E:\MyGitHub\MyWpf\LogicalResourceUsage\obj\Debug\LogicalResourceUsage.csproj.CoreCompileInputs.cache
 E:\MyGitHub\MyWpf\LogicalResourceUsage\obj\Debug\LogicalResourceUsage.exe
 E:\MyGitHub\MyWpf\LogicalResourceUsage\obj\Debug\LogicalResourceUsage.pdb
-E:\MyGitHub\MyWpf\LogicalResourceUsage\obj\Debug\LogicalResourceUsage.csprojAssemblyReference.cache
