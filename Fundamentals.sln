@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryResourcesDemo", "Bina
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryResourceAccessInCode", "BinaryResourceAccessInCode\BinaryResourceAccessInCode.csproj", "{DAC9AD0D-E057-4BE8-BFD3-81941A77537F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceManagement", "ResourceManagement\ResourceManagement.csproj", "{EA47FFD3-EB76-41D2-B386-CA970BA5065A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{DAC9AD0D-E057-4BE8-BFD3-81941A77537F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAC9AD0D-E057-4BE8-BFD3-81941A77537F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAC9AD0D-E057-4BE8-BFD3-81941A77537F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA47FFD3-EB76-41D2-B386-CA970BA5065A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA47FFD3-EB76-41D2-B386-CA970BA5065A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA47FFD3-EB76-41D2-B386-CA970BA5065A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA47FFD3-EB76-41D2-B386-CA970BA5065A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
