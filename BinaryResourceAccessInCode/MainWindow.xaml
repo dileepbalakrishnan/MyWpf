@@ -1,0 +1,15 @@
+﻿<Window x:Class="BinaryResourceAccessInCode.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BinaryResourceAccessInCode"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Button Content="Read Book Data (Resource)" FontSize="14" Click="ButtonBase_OnClick1"/>
+        <TextBox IsReadOnly="True" x:Name="textBox1" FontSize="16" Margin="4"/>
+        <Button Content="Read Book Data (Content)" FontSize="14" Click="ButtonBase_OnClick2"/>
+        <TextBox IsReadOnly="True" x:Name="textBox2" FontSize="16" Margin="4"/>
+    </StackPanel>
+</Window>

@@ -1,0 +1,17 @@
+E:\MyGitHub\MyWpf\BinaryResourceAccessInCode\bin\Debug\BinaryResourceAccessInCode.exe.config
+E:\MyGitHub\MyWpf\BinaryResourceAccessInCode\bin\Debug\BinaryResourceAccessInCode.exe
+E:\MyGitHub\MyWpf\BinaryResourceAccessInCode\bin\Debug\BinaryResourceAccessInCode.pdb
+E:\MyGitHub\MyWpf\BinaryResourceAccessInCode\obj\Debug\BinaryResourceAccessInCode.csprojAssemblyReference.cache
+E:\MyGitHub\MyWpf\BinaryResourceAccessInCode\obj\Debug\MainWindow.g.cs
+E:\MyGitHub\MyWpf\BinaryResourceAccessInCode\obj\Debug\App.g.cs
+E:\MyGitHub\MyWpf\BinaryResourceAccessInCode\obj\Debug\BinaryResourceAccessInCode_MarkupCompile.cache
+E:\MyGitHub\MyWpf\BinaryResourceAccessInCode\obj\Debug\BinaryResourceAccessInCode_MarkupCompile.lref
+E:\MyGitHub\MyWpf\BinaryResourceAccessInCode\obj\Debug\MainWindow.baml
+E:\MyGitHub\MyWpf\BinaryResourceAccessInCode\obj\Debug\BinaryResourceAccessInCode.g.resources
+E:\MyGitHub\MyWpf\BinaryResourceAccessInCode\obj\Debug\BinaryResourceAccessInCode.Properties.Resources.resources
+E:\MyGitHub\MyWpf\BinaryResourceAccessInCode\obj\Debug\BinaryResourceAccessInCode.csproj.GenerateResource.cache
+E:\MyGitHub\MyWpf\BinaryResourceAccessInCode\obj\Debug\BinaryResourceAccessInCode.csproj.CoreCompileInputs.cache
+E:\MyGitHub\MyWpf\BinaryResourceAccessInCode\obj\Debug\BinaryResourceAccessInCode.exe
+E:\MyGitHub\MyWpf\BinaryResourceAccessInCode\obj\Debug\BinaryResourceAccessInCode.pdb
+E:\MyGitHub\MyWpf\BinaryResourceAccessInCode\bin\Debug\ContentBooks.xml
+E:\MyGitHub\MyWpf\BinaryResourceAccessInCode\obj\Debug\BinaryResourceAccessInCode_Content.g.cs
