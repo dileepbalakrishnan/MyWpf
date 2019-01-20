@@ -1,0 +1,15 @@
+E:\MyGitHub\MyWpf\AddRemoveElemonts\obj\Debug\AddRemoveElemonts.csprojAssemblyReference.cache
+E:\MyGitHub\MyWpf\AddRemoveElemonts\obj\Debug\MainWindow.g.cs
+E:\MyGitHub\MyWpf\AddRemoveElemonts\obj\Debug\App.g.cs
+E:\MyGitHub\MyWpf\AddRemoveElemonts\obj\Debug\AddRemoveElemonts_MarkupCompile.cache
+E:\MyGitHub\MyWpf\AddRemoveElemonts\obj\Debug\AddRemoveElemonts_MarkupCompile.lref
+E:\MyGitHub\MyWpf\AddRemoveElemonts\bin\Debug\AddRemoveElemonts.exe.config
+E:\MyGitHub\MyWpf\AddRemoveElemonts\bin\Debug\AddRemoveElemonts.exe
+E:\MyGitHub\MyWpf\AddRemoveElemonts\bin\Debug\AddRemoveElemonts.pdb
+E:\MyGitHub\MyWpf\AddRemoveElemonts\obj\Debug\MainWindow.baml
+E:\MyGitHub\MyWpf\AddRemoveElemonts\obj\Debug\AddRemoveElemonts.g.resources
+E:\MyGitHub\MyWpf\AddRemoveElemonts\obj\Debug\AddRemoveElemonts.Properties.Resources.resources
+E:\MyGitHub\MyWpf\AddRemoveElemonts\obj\Debug\AddRemoveElemonts.csproj.GenerateResource.cache
+E:\MyGitHub\MyWpf\AddRemoveElemonts\obj\Debug\AddRemoveElemonts.csproj.CoreCompileInputs.cache
+E:\MyGitHub\MyWpf\AddRemoveElemonts\obj\Debug\AddRemoveElemonts.exe
+E:\MyGitHub\MyWpf\AddRemoveElemonts\obj\Debug\AddRemoveElemonts.pdb
