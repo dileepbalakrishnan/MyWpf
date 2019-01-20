@@ -1,0 +1,15 @@
+E:\MyGitHub\MyWpf\GridSplitterDemo\bin\Debug\GridSplitterDemo.exe.config
+E:\MyGitHub\MyWpf\GridSplitterDemo\bin\Debug\GridSplitterDemo.exe
+E:\MyGitHub\MyWpf\GridSplitterDemo\bin\Debug\GridSplitterDemo.pdb
+E:\MyGitHub\MyWpf\GridSplitterDemo\obj\Debug\MainWindow.g.cs
+E:\MyGitHub\MyWpf\GridSplitterDemo\obj\Debug\App.g.cs
+E:\MyGitHub\MyWpf\GridSplitterDemo\obj\Debug\GridSplitterDemo_MarkupCompile.cache
+E:\MyGitHub\MyWpf\GridSplitterDemo\obj\Debug\GridSplitterDemo_MarkupCompile.lref
+E:\MyGitHub\MyWpf\GridSplitterDemo\obj\Debug\MainWindow.baml
+E:\MyGitHub\MyWpf\GridSplitterDemo\obj\Debug\GridSplitterDemo.g.resources
+E:\MyGitHub\MyWpf\GridSplitterDemo\obj\Debug\GridSplitterDemo.Properties.Resources.resources
+E:\MyGitHub\MyWpf\GridSplitterDemo\obj\Debug\GridSplitterDemo.csproj.GenerateResource.cache
+E:\MyGitHub\MyWpf\GridSplitterDemo\obj\Debug\GridSplitterDemo.csproj.CoreCompileInputs.cache
+E:\MyGitHub\MyWpf\GridSplitterDemo\obj\Debug\GridSplitterDemo.exe
+E:\MyGitHub\MyWpf\GridSplitterDemo\obj\Debug\GridSplitterDemo.pdb
+E:\MyGitHub\MyWpf\GridSplitterDemo\obj\Debug\GridSplitterDemo.csprojAssemblyReference.cache
