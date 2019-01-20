@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridLayoutDemo", "GridLayou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedRowColumnSizeDemo", "SharedRowColumnSizeDemo\SharedRowColumnSizeDemo.csproj", "{1F63C8BC-0D4E-4B4A-A0C2-CD660B488AE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniformGridDemo", "UniformGridDemo\UniformGridDemo.csproj", "{ED493644-6F7B-449F-B8FC-92D505A6CABD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{1F63C8BC-0D4E-4B4A-A0C2-CD660B488AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F63C8BC-0D4E-4B4A-A0C2-CD660B488AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F63C8BC-0D4E-4B4A-A0C2-CD660B488AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED493644-6F7B-449F-B8FC-92D505A6CABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED493644-6F7B-449F-B8FC-92D505A6CABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED493644-6F7B-449F-B8FC-92D505A6CABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED493644-6F7B-449F-B8FC-92D505A6CABD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
