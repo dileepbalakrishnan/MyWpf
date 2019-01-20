@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniformGridDemo", "UniformG
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridSplitterDemo", "GridSplitterDemo\GridSplitterDemo.csproj", "{AE14997B-BBF4-424D-955B-53A8F82CC922}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrollViewerDemo", "ScrollViewerDemo\ScrollViewerDemo.csproj", "{7D5E3E50-DED2-4D36-B394-BD6B94C28883}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{AE14997B-BBF4-424D-955B-53A8F82CC922}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE14997B-BBF4-424D-955B-53A8F82CC922}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE14997B-BBF4-424D-955B-53A8F82CC922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D5E3E50-DED2-4D36-B394-BD6B94C28883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D5E3E50-DED2-4D36-B394-BD6B94C28883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D5E3E50-DED2-4D36-B394-BD6B94C28883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D5E3E50-DED2-4D36-B394-BD6B94C28883}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
