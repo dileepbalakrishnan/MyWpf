@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddRemoveElemonts", "AddRem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabControlDemo", "TabControlDemo\TabControlDemo.csproj", "{F93D5F4D-7EAE-4DCB-83F9-B722F589CB67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragAndDropDemo", "DragAndDropDemo\DragAndDropDemo.csproj", "{CD3A91C2-DD70-4A29-8620-4A4750407D8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{F93D5F4D-7EAE-4DCB-83F9-B722F589CB67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F93D5F4D-7EAE-4DCB-83F9-B722F589CB67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F93D5F4D-7EAE-4DCB-83F9-B722F589CB67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD3A91C2-DD70-4A29-8620-4A4750407D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD3A91C2-DD70-4A29-8620-4A4750407D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD3A91C2-DD70-4A29-8620-4A4750407D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD3A91C2-DD70-4A29-8620-4A4750407D8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
