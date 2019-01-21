@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrollViewerDemo", "ScrollV
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddRemoveElemonts", "AddRemoveElemonts\AddRemoveElemonts.csproj", "{657CFB9C-20FE-4CAD-9DE0-F513CDCEAA82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabControlDemo", "TabControlDemo\TabControlDemo.csproj", "{F93D5F4D-7EAE-4DCB-83F9-B722F589CB67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{657CFB9C-20FE-4CAD-9DE0-F513CDCEAA82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{657CFB9C-20FE-4CAD-9DE0-F513CDCEAA82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{657CFB9C-20FE-4CAD-9DE0-F513CDCEAA82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F93D5F4D-7EAE-4DCB-83F9-B722F589CB67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93D5F4D-7EAE-4DCB-83F9-B722F589CB67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93D5F4D-7EAE-4DCB-83F9-B722F589CB67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93D5F4D-7EAE-4DCB-83F9-B722F589CB67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
