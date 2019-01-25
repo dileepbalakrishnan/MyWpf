@@ -1,0 +1,42 @@
+﻿<Window x:Class="ControlsDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ControlsDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <local:Person x:Key="person1" Name="Dileep" Age="35"></local:Person>
+    </Window.Resources>
+    <StackPanel Margin="10">
+        <Button Width="250" Height="100" Margin="10">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="12360.jpg" Margin="0,5,5,5"></Image>
+                <TextBlock Text="Hi Dileep" VerticalAlignment="Center" Margin="20,0,0,0"></TextBlock>
+            </StackPanel>
+        </Button>
+        <Button Width="250" Height="100" Content="{StaticResource person1}"></Button>
+        <Button Width="250" Height="100" Content="{StaticResource person1}" Margin="10">
+            <Button.ContentTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Name" Margin="10" VerticalAlignment="Center" HorizontalAlignment="Left"></TextBlock>
+                        <TextBlock Text="{Binding Name}" Margin="10" Grid.Column="1"></TextBlock>
+                        <TextBlock Text="Age" Grid.Row="1" Margin="10" VerticalAlignment="Center" HorizontalAlignment="Left"></TextBlock>
+                        <TextBlock Text="{Binding Age}" Grid.Column="1" Grid.Row="1" Margin="10"></TextBlock>
+                    </Grid>
+                </DataTemplate>
+            </Button.ContentTemplate>
+        </Button>
+        
+    </StackPanel>
+</Window>
