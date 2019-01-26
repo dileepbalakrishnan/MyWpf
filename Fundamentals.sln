@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeaderControldDemo", "Heade
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDataBinding", "SimpleDataBinding\SimpleDataBinding.csproj", "{D8AC1432-1000-4075-B6AB-5FD5A00B4EC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoWayBindingDemo", "TwoWayBindingDemo\TwoWayBindingDemo.csproj", "{582264EB-DD83-43FA-92F6-26241AA1C774}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeNotificationDemo", "ChangeNotificationDemo\ChangeNotificationDemo.csproj", "{33FD86D8-99A5-4EF0-905F-D3485F7169B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +163,14 @@ Global
 		{D8AC1432-1000-4075-B6AB-5FD5A00B4EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8AC1432-1000-4075-B6AB-5FD5A00B4EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8AC1432-1000-4075-B6AB-5FD5A00B4EC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{582264EB-DD83-43FA-92F6-26241AA1C774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{582264EB-DD83-43FA-92F6-26241AA1C774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{582264EB-DD83-43FA-92F6-26241AA1C774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{582264EB-DD83-43FA-92F6-26241AA1C774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33FD86D8-99A5-4EF0-905F-D3485F7169B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33FD86D8-99A5-4EF0-905F-D3485F7169B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33FD86D8-99A5-4EF0-905F-D3485F7169B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33FD86D8-99A5-4EF0-905F-D3485F7169B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
