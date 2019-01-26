@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlsDemo", "ControlsDem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeaderControldDemo", "HeaderControldDemo\HeaderControldDemo.csproj", "{128A9FF4-4B83-462B-A387-5CA0127BEB9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDataBinding", "SimpleDataBinding\SimpleDataBinding.csproj", "{D8AC1432-1000-4075-B6AB-5FD5A00B4EC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{128A9FF4-4B83-462B-A387-5CA0127BEB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{128A9FF4-4B83-462B-A387-5CA0127BEB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{128A9FF4-4B83-462B-A387-5CA0127BEB9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8AC1432-1000-4075-B6AB-5FD5A00B4EC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8AC1432-1000-4075-B6AB-5FD5A00B4EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8AC1432-1000-4075-B6AB-5FD5A00B4EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8AC1432-1000-4075-B6AB-5FD5A00B4EC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
