@@ -1,0 +1,15 @@
+E:\MyGitHub\MyWpf\DataTemplateDemo\bin\Debug\DataTemplateDemo.exe.config
+E:\MyGitHub\MyWpf\DataTemplateDemo\bin\Debug\DataTemplateDemo.exe
+E:\MyGitHub\MyWpf\DataTemplateDemo\bin\Debug\DataTemplateDemo.pdb
+E:\MyGitHub\MyWpf\DataTemplateDemo\obj\Debug\DataTemplateDemo.csprojAssemblyReference.cache
+E:\MyGitHub\MyWpf\DataTemplateDemo\obj\Debug\MainWindow.g.cs
+E:\MyGitHub\MyWpf\DataTemplateDemo\obj\Debug\App.g.cs
+E:\MyGitHub\MyWpf\DataTemplateDemo\obj\Debug\DataTemplateDemo_MarkupCompile.cache
+E:\MyGitHub\MyWpf\DataTemplateDemo\obj\Debug\DataTemplateDemo_MarkupCompile.lref
+E:\MyGitHub\MyWpf\DataTemplateDemo\obj\Debug\MainWindow.baml
+E:\MyGitHub\MyWpf\DataTemplateDemo\obj\Debug\DataTemplateDemo.g.resources
+E:\MyGitHub\MyWpf\DataTemplateDemo\obj\Debug\DataTemplateDemo.Properties.Resources.resources
+E:\MyGitHub\MyWpf\DataTemplateDemo\obj\Debug\DataTemplateDemo.csproj.GenerateResource.cache
+E:\MyGitHub\MyWpf\DataTemplateDemo\obj\Debug\DataTemplateDemo.csproj.CoreCompileInputs.cache
+E:\MyGitHub\MyWpf\DataTemplateDemo\obj\Debug\DataTemplateDemo.exe
+E:\MyGitHub\MyWpf\DataTemplateDemo\obj\Debug\DataTemplateDemo.pdb
