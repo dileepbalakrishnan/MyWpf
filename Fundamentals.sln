@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionBindingDemo", "Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTemplateDemo", "DataTemplateDemo\DataTemplateDemo.csproj", "{77E87155-A4FD-459B-846E-B921E48D26DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypedDataTemplates", "TypedDataTemplates\TypedDataTemplates.csproj", "{4A5010FC-0EA3-4414-A15D-8B225BE85105}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{77E87155-A4FD-459B-846E-B921E48D26DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77E87155-A4FD-459B-846E-B921E48D26DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77E87155-A4FD-459B-846E-B921E48D26DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A5010FC-0EA3-4414-A15D-8B225BE85105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A5010FC-0EA3-4414-A15D-8B225BE85105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A5010FC-0EA3-4414-A15D-8B225BE85105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A5010FC-0EA3-4414-A15D-8B225BE85105}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
