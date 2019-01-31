@@ -1,0 +1,47 @@
+﻿<Window x:Class="MasterDetailDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MasterDetailDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"></ColumnDefinition>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <ListBox Margin="5" ItemsSource="{Binding}" DisplayMemberPath="ProcessName" x:Name="lstBox" IsSynchronizedWithCurrentItem="True"></ListBox>
+        <Grid Grid.Column="1" TextBlock.FontSize="15" DataContext="{Binding SelectedItem, ElementName=lstBox}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <TextBlock Margin="5,5,0,0" Text="{Binding ProcessName, StringFormat='Name : \{0\}'}" Grid.Row="0"></TextBlock>
+            <TextBlock Margin="5,5,0,0" Text="{Binding Id, StringFormat='Id : \{0\}'}" Grid.Row="1"></TextBlock>
+            <TextBlock Margin="5,5,0,0" Text="{Binding PriorityClass, StringFormat='PriorityClass : \{0\}'}" Grid.Row="2"></TextBlock>
+            <TextBlock Margin="5,5,0,0" Text="{Binding Threads.Count, StringFormat='Threads : \{0\}'}" Grid.Row="3"></TextBlock>
+        </Grid>
+        <!--This grid doesnt use the inner binding - it depends on the ICollectionView.CurrentItem property which is synchronized with the SelectedItem of the list box-->
+        <Grid Grid.Column="2" TextBlock.FontSize="15" DataContext="{Binding CurrentItem}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <TextBlock Margin="5,5,0,0" Text="{Binding ProcessName, StringFormat='Name : \{0\}'}" Grid.Row="0"></TextBlock>
+            <TextBlock Margin="5,5,0,0" Text="{Binding Id, StringFormat='Id : \{0\}'}" Grid.Row="1"></TextBlock>
+            <TextBlock Margin="5,5,0,0" Text="{Binding PriorityClass, StringFormat='PriorityClass : \{0\}'}" Grid.Row="2"></TextBlock>
+            <TextBlock Margin="5,5,0,0" Text="{Binding Threads.Count, StringFormat='Threads : \{0\}'}" Grid.Row="3"></TextBlock>
+        </Grid>
+
+    </Grid>
+</Window>

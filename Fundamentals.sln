@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTemplateSelectorDemo", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueConverterDemo", "ValueConverterDemo\ValueConverterDemo.csproj", "{EA4F371D-3FC5-43C7-82FD-9D67FF9B1078}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterDetailDemo", "MasterDetailDemo\MasterDetailDemo.csproj", "{D176D7F6-60E8-4E36-8ED3-196EDB791692}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{EA4F371D-3FC5-43C7-82FD-9D67FF9B1078}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA4F371D-3FC5-43C7-82FD-9D67FF9B1078}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA4F371D-3FC5-43C7-82FD-9D67FF9B1078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D176D7F6-60E8-4E36-8ED3-196EDB791692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D176D7F6-60E8-4E36-8ED3-196EDB791692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D176D7F6-60E8-4E36-8ED3-196EDB791692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D176D7F6-60E8-4E36-8ED3-196EDB791692}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

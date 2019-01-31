@@ -1,0 +1,15 @@
+E:\MyGitHub\MyWpf\MasterDetailDemo\bin\Debug\MasterDetailDemo.exe.config
+E:\MyGitHub\MyWpf\MasterDetailDemo\bin\Debug\MasterDetailDemo.exe
+E:\MyGitHub\MyWpf\MasterDetailDemo\bin\Debug\MasterDetailDemo.pdb
+E:\MyGitHub\MyWpf\MasterDetailDemo\obj\Debug\MasterDetailDemo.csprojAssemblyReference.cache
+E:\MyGitHub\MyWpf\MasterDetailDemo\obj\Debug\MainWindow.g.cs
+E:\MyGitHub\MyWpf\MasterDetailDemo\obj\Debug\App.g.cs
+E:\MyGitHub\MyWpf\MasterDetailDemo\obj\Debug\MasterDetailDemo_MarkupCompile.cache
+E:\MyGitHub\MyWpf\MasterDetailDemo\obj\Debug\MasterDetailDemo_MarkupCompile.lref
+E:\MyGitHub\MyWpf\MasterDetailDemo\obj\Debug\MainWindow.baml
+E:\MyGitHub\MyWpf\MasterDetailDemo\obj\Debug\MasterDetailDemo.g.resources
+E:\MyGitHub\MyWpf\MasterDetailDemo\obj\Debug\MasterDetailDemo.Properties.Resources.resources
+E:\MyGitHub\MyWpf\MasterDetailDemo\obj\Debug\MasterDetailDemo.csproj.GenerateResource.cache
+E:\MyGitHub\MyWpf\MasterDetailDemo\obj\Debug\MasterDetailDemo.csproj.CoreCompileInputs.cache
+E:\MyGitHub\MyWpf\MasterDetailDemo\obj\Debug\MasterDetailDemo.exe
+E:\MyGitHub\MyWpf\MasterDetailDemo\obj\Debug\MasterDetailDemo.pdb

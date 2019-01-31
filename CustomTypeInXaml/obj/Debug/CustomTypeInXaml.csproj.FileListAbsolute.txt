@@ -29,3 +29,4 @@ E:\MyGitHub\MyWpf\CustomTypeInXaml\obj\Debug\CustomTypeInXaml.csproj.GenerateRes
 E:\MyGitHub\MyWpf\CustomTypeInXaml\obj\Debug\CustomTypeInXaml.csproj.CoreCompileInputs.cache
 E:\MyGitHub\MyWpf\CustomTypeInXaml\obj\Debug\CustomTypeInXaml.exe
 E:\MyGitHub\MyWpf\CustomTypeInXaml\obj\Debug\CustomTypeInXaml.pdb
+E:\MyGitHub\MyWpf\CustomTypeInXaml\obj\Debug\CustomTypeInXaml.csprojAssemblyReference.cache

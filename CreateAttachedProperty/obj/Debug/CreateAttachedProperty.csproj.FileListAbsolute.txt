@@ -13,3 +13,4 @@ E:\MyGitHub\MyWpf\CreateAttachedProperty\obj\Debug\CreateAttachedProperty.csproj
 E:\MyGitHub\MyWpf\CreateAttachedProperty\obj\Debug\CreateAttachedProperty.csproj.CoreCompileInputs.cache
 E:\MyGitHub\MyWpf\CreateAttachedProperty\obj\Debug\CreateAttachedProperty.exe
 E:\MyGitHub\MyWpf\CreateAttachedProperty\obj\Debug\CreateAttachedProperty.pdb
+E:\MyGitHub\MyWpf\CreateAttachedProperty\obj\Debug\CreateAttachedProperty.csprojAssemblyReference.cache
