@@ -12,4 +12,3 @@ E:\MyGitHub\MyWpf\GridSplitterDemo\obj\Debug\GridSplitterDemo.csproj.GenerateRes
 E:\MyGitHub\MyWpf\GridSplitterDemo\obj\Debug\GridSplitterDemo.csproj.CoreCompileInputs.cache
 E:\MyGitHub\MyWpf\GridSplitterDemo\obj\Debug\GridSplitterDemo.exe
 E:\MyGitHub\MyWpf\GridSplitterDemo\obj\Debug\GridSplitterDemo.pdb
-E:\MyGitHub\MyWpf\GridSplitterDemo\obj\Debug\GridSplitterDemo.csprojAssemblyReference.cache

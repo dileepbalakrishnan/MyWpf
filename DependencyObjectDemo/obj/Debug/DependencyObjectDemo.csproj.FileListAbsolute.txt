@@ -33,3 +33,4 @@ E:\MyGitHub\MyWpf\DependencyObjectDemo\obj\Debug\DependencyObjectDemo.csproj.Gen
 E:\MyGitHub\MyWpf\DependencyObjectDemo\obj\Debug\DependencyObjectDemo.csproj.CoreCompileInputs.cache
 E:\MyGitHub\MyWpf\DependencyObjectDemo\obj\Debug\DependencyObjectDemo.exe
 E:\MyGitHub\MyWpf\DependencyObjectDemo\obj\Debug\DependencyObjectDemo.pdb
+E:\MyGitHub\MyWpf\DependencyObjectDemo\obj\Debug\DependencyObjectDemo.csprojAssemblyReference.cache

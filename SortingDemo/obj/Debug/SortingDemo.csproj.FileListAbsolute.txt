@@ -1,0 +1,16 @@
+E:\MyGitHub\MyWpf\SortingDemo\bin\Debug\SortingDemo.exe.config
+E:\MyGitHub\MyWpf\SortingDemo\bin\Debug\SortingDemo.exe
+E:\MyGitHub\MyWpf\SortingDemo\bin\Debug\SortingDemo.pdb
+E:\MyGitHub\MyWpf\SortingDemo\obj\Debug\SortingDemo.csprojAssemblyReference.cache
+E:\MyGitHub\MyWpf\SortingDemo\obj\Debug\MainWindow.g.cs
+E:\MyGitHub\MyWpf\SortingDemo\obj\Debug\App.g.cs
+E:\MyGitHub\MyWpf\SortingDemo\obj\Debug\SortingDemo_MarkupCompile.cache
+E:\MyGitHub\MyWpf\SortingDemo\obj\Debug\SortingDemo_MarkupCompile.lref
+E:\MyGitHub\MyWpf\SortingDemo\obj\Debug\MainWindow.baml
+E:\MyGitHub\MyWpf\SortingDemo\obj\Debug\SortingDemo.g.resources
+E:\MyGitHub\MyWpf\SortingDemo\obj\Debug\SortingDemo.Properties.Resources.resources
+E:\MyGitHub\MyWpf\SortingDemo\obj\Debug\SortingDemo.csproj.GenerateResource.cache
+E:\MyGitHub\MyWpf\SortingDemo\obj\Debug\SortingDemo.csproj.CoreCompileInputs.cache
+E:\MyGitHub\MyWpf\SortingDemo\obj\Debug\SortingDemo.exe
+E:\MyGitHub\MyWpf\SortingDemo\obj\Debug\SortingDemo.pdb
+E:\MyGitHub\MyWpf\SortingDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs

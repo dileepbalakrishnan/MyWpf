@@ -1,0 +1,43 @@
+﻿<Window x:Class="SortingDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SortingDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <local:SortFieldList x:Key="sortFieldList">
+            <local:SortField DisplayName="Name" PropertyName="ProcessName"></local:SortField>
+            <local:SortField DisplayName="ProcessId" PropertyName="Id"></local:SortField>
+            <local:SortField DisplayName="# Threads" PropertyName="Threads.Count"></local:SortField>
+        </local:SortFieldList>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Margin="10" Grid.ColumnSpan="2">
+            <TextBlock Text="Sort By:" VerticalAlignment="Center"></TextBlock>
+            <ComboBox x:Name="cmbSort" ItemsSource="{StaticResource ResourceKey=sortFieldList}" DisplayMemberPath="DisplayName" SelectedValuePath="PropertyName" Margin="10,0,0,0" Width="100"></ComboBox>
+            <CheckBox x:Name="chkDirection" Content="Ascending" Margin="10,0,0,0" VerticalAlignment="Center"></CheckBox>
+            <Button Content="Sort" Margin="10,0,0,0" Width="50" Click="DoSort"></Button>
+            <TextBox Width="150" Margin="10,0" x:Name="txtFilter"></TextBox>
+            <Button Content="Filter" Margin="10,0,0,0" Width="50" Click="DoFilter"></Button>
+        </StackPanel>
+        <ListBox Grid.Column="0" Grid.Row="1" Margin="5" ItemsSource="{Binding}" x:Name="lstBox" IsSynchronizedWithCurrentItem="True" HorizontalContentAlignment="Stretch">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Border BorderBrush="Black" BorderThickness="2" Margin="2">
+                        <StackPanel Orientation="Horizontal" TextBlock.FontSize="17" Background="Beige">
+                        <TextBlock Margin="5,5,5,0" Text="{Binding ProcessName}" FontWeight="Bold"></TextBlock>
+                        <TextBlock Margin="5,5,5,0" Text="{Binding Id, StringFormat=' (\{0\}) '}" Grid.Row="1" Foreground="Blue"></TextBlock>
+                        <TextBlock Margin="5,5,5,0" Text="{Binding Threads.Count, StringFormat='Threads : \{0\}'}" Grid.Row="3" Foreground="Red"></TextBlock>
+                        </StackPanel>
+                    </Border>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</Window>

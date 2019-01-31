@@ -1,7 +1,6 @@
 E:\MyGitHub\MyWpf\DragAndDropDemo\bin\Debug\DragAndDropDemo.exe.config
 E:\MyGitHub\MyWpf\DragAndDropDemo\bin\Debug\DragAndDropDemo.exe
 E:\MyGitHub\MyWpf\DragAndDropDemo\bin\Debug\DragAndDropDemo.pdb
-E:\MyGitHub\MyWpf\DragAndDropDemo\obj\Debug\DragAndDropDemo.csprojAssemblyReference.cache
 E:\MyGitHub\MyWpf\DragAndDropDemo\obj\Debug\MainWindow.g.cs
 E:\MyGitHub\MyWpf\DragAndDropDemo\obj\Debug\App.g.cs
 E:\MyGitHub\MyWpf\DragAndDropDemo\obj\Debug\DragAndDropDemo_MarkupCompile.cache
