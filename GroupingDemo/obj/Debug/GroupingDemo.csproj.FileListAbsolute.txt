@@ -1,0 +1,15 @@
+E:\MyGitHub\MyWpf\GroupingDemo\bin\Debug\GroupingDemo.exe.config
+E:\MyGitHub\MyWpf\GroupingDemo\bin\Debug\GroupingDemo.exe
+E:\MyGitHub\MyWpf\GroupingDemo\bin\Debug\GroupingDemo.pdb
+E:\MyGitHub\MyWpf\GroupingDemo\obj\Debug\GroupingDemo.csprojAssemblyReference.cache
+E:\MyGitHub\MyWpf\GroupingDemo\obj\Debug\MainWindow.g.cs
+E:\MyGitHub\MyWpf\GroupingDemo\obj\Debug\App.g.cs
+E:\MyGitHub\MyWpf\GroupingDemo\obj\Debug\GroupingDemo_MarkupCompile.cache
+E:\MyGitHub\MyWpf\GroupingDemo\obj\Debug\GroupingDemo_MarkupCompile.lref
+E:\MyGitHub\MyWpf\GroupingDemo\obj\Debug\MainWindow.baml
+E:\MyGitHub\MyWpf\GroupingDemo\obj\Debug\GroupingDemo.g.resources
+E:\MyGitHub\MyWpf\GroupingDemo\obj\Debug\GroupingDemo.Properties.Resources.resources
+E:\MyGitHub\MyWpf\GroupingDemo\obj\Debug\GroupingDemo.csproj.GenerateResource.cache
+E:\MyGitHub\MyWpf\GroupingDemo\obj\Debug\GroupingDemo.csproj.CoreCompileInputs.cache
+E:\MyGitHub\MyWpf\GroupingDemo\obj\Debug\GroupingDemo.exe
+E:\MyGitHub\MyWpf\GroupingDemo\obj\Debug\GroupingDemo.pdb
