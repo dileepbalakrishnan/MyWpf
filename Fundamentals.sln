@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingDemo", "SortingDemo\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupingDemo", "GroupingDemo\GroupingDemo.csproj", "{4191D3BB-B93A-4C92-948D-46185123FE28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiBindingDemo", "MultiBindingDemo\MultiBindingDemo.csproj", "{56946022-39A0-4282-BCB7-C1D0A4FC0F43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{4191D3BB-B93A-4C92-948D-46185123FE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4191D3BB-B93A-4C92-948D-46185123FE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4191D3BB-B93A-4C92-948D-46185123FE28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56946022-39A0-4282-BCB7-C1D0A4FC0F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56946022-39A0-4282-BCB7-C1D0A4FC0F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56946022-39A0-4282-BCB7-C1D0A4FC0F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56946022-39A0-4282-BCB7-C1D0A4FC0F43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
