@@ -12,3 +12,4 @@ E:\MyGitHub\MyWpf\AttachedPropertiesDemo\obj\Debug\AttachedPropertiesDemo.csproj
 E:\MyGitHub\MyWpf\AttachedPropertiesDemo\obj\Debug\AttachedPropertiesDemo.csproj.CoreCompileInputs.cache
 E:\MyGitHub\MyWpf\AttachedPropertiesDemo\obj\Debug\AttachedPropertiesDemo.exe
 E:\MyGitHub\MyWpf\AttachedPropertiesDemo\obj\Debug\AttachedPropertiesDemo.pdb
+E:\MyGitHub\MyWpf\AttachedPropertiesDemo\obj\Debug\AttachedPropertiesDemo.csprojAssemblyReference.cache
