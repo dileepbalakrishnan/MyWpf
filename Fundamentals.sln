@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeViewDemo", "TreeViewDem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridDemo", "DataGridDemo\DataGridDemo.csproj", "{ED3966D2-AE60-48DF-BD73-D5787C40C46F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridCustomColumns", "DataGridCustomColumns\DataGridCustomColumns.csproj", "{D5A6EA58-40A1-48DE-ADF1-59D933FF0D77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{ED3966D2-AE60-48DF-BD73-D5787C40C46F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED3966D2-AE60-48DF-BD73-D5787C40C46F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED3966D2-AE60-48DF-BD73-D5787C40C46F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A6EA58-40A1-48DE-ADF1-59D933FF0D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A6EA58-40A1-48DE-ADF1-59D933FF0D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A6EA58-40A1-48DE-ADF1-59D933FF0D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A6EA58-40A1-48DE-ADF1-59D933FF0D77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

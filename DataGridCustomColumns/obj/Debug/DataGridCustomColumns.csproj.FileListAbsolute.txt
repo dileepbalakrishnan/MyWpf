@@ -1,0 +1,16 @@
+E:\MyGitHub\MyWpf\DataGridCustomColumns\bin\Debug\DataGridCustomColumns.exe.config
+E:\MyGitHub\MyWpf\DataGridCustomColumns\bin\Debug\DataGridCustomColumns.exe
+E:\MyGitHub\MyWpf\DataGridCustomColumns\bin\Debug\DataGridCustomColumns.pdb
+E:\MyGitHub\MyWpf\DataGridCustomColumns\obj\Debug\DataGridCustomColumns.csprojAssemblyReference.cache
+E:\MyGitHub\MyWpf\DataGridCustomColumns\obj\Debug\MainWindow.g.cs
+E:\MyGitHub\MyWpf\DataGridCustomColumns\obj\Debug\App.g.cs
+E:\MyGitHub\MyWpf\DataGridCustomColumns\obj\Debug\DataGridCustomColumns_MarkupCompile.cache
+E:\MyGitHub\MyWpf\DataGridCustomColumns\obj\Debug\DataGridCustomColumns_MarkupCompile.lref
+E:\MyGitHub\MyWpf\DataGridCustomColumns\obj\Debug\MainWindow.baml
+E:\MyGitHub\MyWpf\DataGridCustomColumns\obj\Debug\DataGridCustomColumns.g.resources
+E:\MyGitHub\MyWpf\DataGridCustomColumns\obj\Debug\DataGridCustomColumns.Properties.Resources.resources
+E:\MyGitHub\MyWpf\DataGridCustomColumns\obj\Debug\DataGridCustomColumns.csproj.GenerateResource.cache
+E:\MyGitHub\MyWpf\DataGridCustomColumns\obj\Debug\DataGridCustomColumns.csproj.CoreCompileInputs.cache
+E:\MyGitHub\MyWpf\DataGridCustomColumns\obj\Debug\DataGridCustomColumns.exe
+E:\MyGitHub\MyWpf\DataGridCustomColumns\obj\Debug\DataGridCustomColumns.pdb
+E:\MyGitHub\MyWpf\DataGridCustomColumns\obj\Debug\GeneratedInternalTypeHelper.g.cs
