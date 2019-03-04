@@ -89,6 +89,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HierarchyDemo", "HierarchyD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMvvMDemo", "SimpleMvvMDemo\SimpleMvvMDemo.csproj", "{50735CB1-553B-45ED-A5B6-1374A6E3F6EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationDemo", "ValidationDemo\ValidationDemo.csproj", "{A40DB2B3-235C-4EC6-9FE3-2EA0CDAF0789}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -267,6 +269,10 @@ Global
 		{50735CB1-553B-45ED-A5B6-1374A6E3F6EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50735CB1-553B-45ED-A5B6-1374A6E3F6EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50735CB1-553B-45ED-A5B6-1374A6E3F6EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A40DB2B3-235C-4EC6-9FE3-2EA0CDAF0789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40DB2B3-235C-4EC6-9FE3-2EA0CDAF0789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40DB2B3-235C-4EC6-9FE3-2EA0CDAF0789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40DB2B3-235C-4EC6-9FE3-2EA0CDAF0789}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
