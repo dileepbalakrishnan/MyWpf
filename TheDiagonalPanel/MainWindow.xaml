@@ -1,0 +1,18 @@
+﻿<Window x:Class="TheDiagonalPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TheDiagonalPanel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <local:DiagonalPanel>
+        <Button Content="This"></Button>
+        <Button Content="Is"></Button>
+        <Button Content="The"></Button>
+        <TextBox Text="Diagonal"></TextBox>
+        <Button Content="Panel"></Button>
+        <Button Content="In"></Button>
+        <Button Content="Action"></Button>
+    </local:DiagonalPanel>
+</Window>
